@@ -1,0 +1,14 @@
+{
+  "name": "com.faxmashine.infinitetrivia.Editor",
+  "references": [
+    "com.faxmashine.infinitetrivia"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
