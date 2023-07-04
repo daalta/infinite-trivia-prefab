@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: Packages/com.fax.infinite-trivia/**
+    paths: Packages/com.faxmashine.infinite-trivia/**
 
 env:
-  packageName: "com.fax.infinite-trivia"
+  packageName: "com.faxmashine.infinite-trivia"
 
 permissions:
   contents: write
