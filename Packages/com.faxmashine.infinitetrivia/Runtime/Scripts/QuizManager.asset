@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: QuizManager
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 6bbeee19e7fa8be4d87a8236bf5e624c,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 9563aea8a2265e243944eba4ee61eb31,
     type: 2}
   udonAssembly: 
   assemblyError: 
@@ -317,7 +317,7 @@ MonoBehaviour:
       Data: 20|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: QuizUIMenu, Assembly-CSharp
+      Data: QuizUIMenu, com.faxmashine.infinitetrivia
     - Name: 
       Entry: 8
       Data: 
@@ -1052,7 +1052,7 @@ MonoBehaviour:
       Data: 58|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: QuizCategory[], Assembly-CSharp
+      Data: QuizCategory[], com.faxmashine.infinitetrivia
     - Name: 
       Entry: 8
       Data: 
