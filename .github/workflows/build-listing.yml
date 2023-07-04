@@ -1,7 +1,7 @@
 name: Build Repo Listing
 
 env:
-  CurrentPackageName: com.vrchat.demo-template
+  CurrentPackageName: com.fax.trivia-prefab
   listPublishDirectory: Website
   pathToCi: ci
   
