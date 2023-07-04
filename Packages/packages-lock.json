@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.faxmashine.infinitetrivia": {
-      "version": "file:com.faxmashine.infinitetrivia",
+    "com.faxmashine.infinite-trivia": {
+      "version": "file:com.faxmashine.infinite-trivia",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
