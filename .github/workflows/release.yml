@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: Packages/com.vrchat.demo-template/**
+    paths: Packages/com.fax.infinite-trivia/**
 
 env:
-  packageName: "com.vrchat.demo-template"
+  packageName: "com.fax.infinite-trivia"
 
 permissions:
   contents: write
