@@ -1,7 +1,7 @@
 name: Build Repo Listing
 
 env:
-  CurrentPackageName: com.fax.trivia-prefab
+  CurrentPackageName: com.faxmashine.trivia-prefab
   listPublishDirectory: Website
   pathToCi: ci
   
